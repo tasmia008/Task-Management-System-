@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Model-View-Controller (MVC) Pattern</title>
+    <title>Problem Statement</title>
 </head>
 <body>
 
-<h2>Problem Management</h2>
 <ul>
     <li>The problem statement outlines the need for a task management system for a rapidly growing software company. The system facilitates collaboration and project workflow management for internal teams and external clients. It should include three types of users: Administrators, Project Managers, and Developers. Administrators are responsible for system configuration, project creation, and user management. Project Managers oversee specific projects, assign developers, and provide project updates. Developers work on assigned projects and provide progress updates. The system includes features such as project creation, dashboard views, project details pages, and login functionality.</li>
 </ul>
