@@ -1,0 +1,25 @@
+#header{
+    min-height: 50px;
+    background-color: #421b7c;
+}
+
+
+#header a{
+    display: inline-block;
+    line-height: 50px;
+    float: right;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+}
+
+#content h1{
+    font-size: 50px;
+    color: #349348;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    text-align: center
+}
